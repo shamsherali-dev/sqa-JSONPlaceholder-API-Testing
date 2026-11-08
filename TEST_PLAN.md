@@ -1,4 +1,4 @@
-# Software Test Plan: ReqRes REST API Integration
+# Software Test Plan: JSONPlaceholder REST API Integration
 
 ## 1. Project Overview
 This document outlines the testing approach for validating HTTP request methods, payload validation schemas, status codes, and error responses for the ReqRes backend platform.
